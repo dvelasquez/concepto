@@ -1,0 +1,15 @@
+<ion-view view-title="Concepto" name="concepto-view" hide-nav-bar="true">
+    <ion-content has-header="false" scroll="false">
+       <div class="list card full-card">
+           <div class="item item-avatar header-concepto">
+               Points: {{data.counter}}
+           </div>
+           <div class="item item-body body-concepto" ng-click="hitBox()">
+               {{data.currentEnemy}}
+           </div>
+           <div class="item tabs tabs-secondary tabs-icon-left footer-concepto">
+               Life: {{data.me.currentHp}} / {{data.me.hp}}
+           </div>
+       </div>
+    </ion-content>
+</ion-view>

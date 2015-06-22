@@ -1,0 +1,13 @@
+/* Empty. Add your own CSS if you like */
+.full-card {
+    height: 100vh;
+}
+.header-concepto{
+    height: 10vh;
+}
+.body-concepto{
+    height: 75vh;
+}
+.footer-concepto{
+    height: 15vh;
+}
