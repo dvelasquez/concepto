@@ -23,7 +23,8 @@ TODO:
   11. Experience
   12. Leveling
   13. Bosses
-4. OAUTH Login
+4. REFACTORING
+5. OAUTH Login
 5. Role Based Menu
 6. Customization
 7. Upload Customization Service
